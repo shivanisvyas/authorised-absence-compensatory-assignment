@@ -1,0 +1,12 @@
+﻿key_resp.keys,key_resp.corr,tilt,,hit,miss,fa,cr
+down,1,-2,,,,,1
+up,0,0,,,1,,
+up,0,0,,,1,,
+down,1,0,,1,,,
+down,1,0,,1,,,
+up,0,0,,,1,,
+up,0,0,,,1,,
+down,1,-2,,,,,1
+down,1,-1,,,,,1
+down,1,-2,,,,,1
+,,,,2,4,0,4
